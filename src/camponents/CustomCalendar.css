@@ -1,0 +1,19 @@
+.highlight-saturday {
+    background-color: #f3d55d;
+    color: white;
+  }
+  
+  .highlight-sunday {
+    background-color: red;
+    color: white;
+  }
+  
+  .highlight-holiday {
+    background-color: #3366cc;
+    color: white;
+  }
+  .custom-calendar{
+    width: 500px;
+    background-color: aquamarine;
+    padding: 35px;
+  }
